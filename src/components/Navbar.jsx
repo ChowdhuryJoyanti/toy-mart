@@ -29,8 +29,8 @@ const Navbar = () => {
         <Link to="/" className="shrink-0">
           <img src={logo} alt="logo" className="w-14 max-[360px]:w-12" />
           <h2 className="font-nunito font-extrabold text-2xl max-[360px]:text-xl mt-1 ml-1 text-secondary-focus leading-10 letter tracking-tighter">
-            <span className="text-primary">Edu</span>
-            PlayMart
+            <span className="text-primary">Toy</span>
+            Mart
           </h2>
         </Link>
 

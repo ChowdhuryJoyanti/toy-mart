@@ -135,7 +135,7 @@ const Footer = () => {
             data-aos="fade-left"
             data-aos-offset={100}
           >
-            <FaHome /> Dhaka, Bangladesh
+            <FaHome /> Chittagong, Bangladesh
           </p>
           <p
             className="flex items-center gap-2"
@@ -156,13 +156,13 @@ const Footer = () => {
             data-aos="fade-left"
             data-aos-offset={100}
           >
-            <HiMail /> demo@example.com
+            <HiMail /> abcd123@gmail.com
           </a>
         </div>
       </div>
       <div className="footer footer-center p-4 glass">
         <div>
-          <p>Copyright © 2023 - All right reserved by Showkat Ali Sam</p>
+          <p>Copyright © 2023 - All right reserved by Joyanti Chowdhury</p>
         </div>
       </div>
     </footer>
